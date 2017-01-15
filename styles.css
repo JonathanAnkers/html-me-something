@@ -1,0 +1,45 @@
+html {
+	background:url(Imgs/BG.jpg) no-repeat center center fixed;
+	
+	
+}
+body {
+	width:800px;
+	margin:auto;
+}
+
+nav { 
+	font-size:20px;
+	font-color:white;
+	
+}
+
+.headT {
+	font-size:50px;
+	color:White;
+	text-align:center;
+}
+
+img {
+	width:500px;
+	height:500px;
+	display:block;
+	margin:auto;
+	text-align:center;
+	
+}
+h2 {
+	text-align:center;
+	color:white;
+	
+}
+p {
+	color:white;
+	text-align:center;
+	display:block;
+	width:400px;
+	height:auto;
+	margin:auto;
+	padding-bottom:20px;
+	
+}
